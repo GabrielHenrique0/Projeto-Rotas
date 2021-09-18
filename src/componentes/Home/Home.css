@@ -1,10 +1,10 @@
-.Band, .Cultura, .Globo, .Record, .Sbt, .Titulo{
+.mrv, .perplan, .parra, .projeto, .pacaembu {
     border: 1px solid black;
     text-align: center;
 }
 
 .Home{
-    height: 88.7vh;
+    height: 90vh;
     background-image: linear-gradient(to right, rgb(29, 245, 0), rgb(251, 255, 0), rgb(255, 0, 0));
     text-align: center;
 }

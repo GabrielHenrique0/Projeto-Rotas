@@ -22,12 +22,12 @@ export default function Villa() {
             <div className="menu">
                     <nav className="navMenu">
                         <ul>
-                            <li> <Link to="//"> Menu </Link> </li>
+                            <li> <Link to="/home"> Menu </Link> </li>
                             <li> <Link to="/pacaembu/"> Voltar </Link> </li>
-                            <li> <Link to="/contatos"> CORRETOR </Link> </li>
-                            <li> <Link to="/contatos"> FINANCIAMENTO </Link> </li>
+                            <li> <Link to="#"> CORRETOR </Link> </li>
+                            <li> <Link to="#"> FINANCIAMENTO </Link> </li>
                             <li> <Link to="/pacaembu/villadicapri/modelo"> PROJETOS MODELO </Link> </li>
-                            <li> <Link to="/contatos"> INVESTIMENTO </Link> </li>
+                            <li> <Link to="#"> INVESTIMENTO </Link> </li>
 
                         </ul>
                     </nav>

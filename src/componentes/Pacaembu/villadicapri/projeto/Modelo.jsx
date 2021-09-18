@@ -24,7 +24,7 @@ export default function Modelo() {
             <div className='menu'>
                 <nav className='navMenu'>
                     <ul>
-                        <li> <Link to="//"> Menu </Link> </li>
+                        <li> <Link to="/home"> Menu </Link> </li>
                         <li> <Link to="/pacaembu/villadicapri"> Voltar </Link> </li>
                         <li> <Link to="#"> CASAS </Link></li>
                         <li> <Link to="#"> APARTAMENTOS </Link></li>
