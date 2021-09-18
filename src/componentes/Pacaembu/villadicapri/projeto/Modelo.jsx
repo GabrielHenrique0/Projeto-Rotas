@@ -9,7 +9,7 @@ import { Route, Switch} from 'react-router'
 
 import './Modelo.css'
 
-import Modelo from '/workspace/Projeto-Rotas/src/componentes/Pacaembu/villadicapri/projeto/Modelo.jsx'
+import Villa from '/workspace/Projeto-Rotas/src/componentes/Pacaembu/villadicapri/villa.jsx'
 
 export default function Modelo() {
     return(

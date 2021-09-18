@@ -25,7 +25,7 @@ export default function Pacaembu() {
                     <ul>
                     <li> <Link to="/"> Voltar </Link> </li>
                         <li> <Link to="#"> PARQUE UNIVERSITÁRIO </Link> </li>
-                        <li> <Link to="contatos/villadicapri"> VILLA DI CAPRI </Link> </li>
+                        <li> <Link to="pacaembu/villadicapri"> VILLA DI CAPRI </Link> </li>
                         <li> <Link to="#"> VITTA RESIDENCIAL </Link> </li>
                         <li> <Link to="#"> QUINTA D’ OESTE </Link> </li>
                         <li> <Link to="#"> VIVA REAL </Link> </li>
