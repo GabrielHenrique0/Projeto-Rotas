@@ -1,4 +1,3 @@
-  
 import React from 'react'
 import {Link} from 'react-router-dom'
 
@@ -17,7 +16,6 @@ export default function Pacaembu() {
             <div className = 'pacaembu'>
                 <Switch>
                     <Route exact path = "/" render = {(props) => <Home/>}></Route>
-
                 </Switch>
             </div>
             <div className='menu'>

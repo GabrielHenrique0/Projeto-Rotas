@@ -1,15 +1,15 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import Titulo from '/workspace/Projeto-Rotas/src/componentes/Titulo/Titulo.jsx'
+import Titulo from '../../../Titulo/Titulo.jsx'
 
-import Home from '/workspace/Projeto-Rotas/src/componentes/Home/Home.jsx'
+import Home from '../../../Home/Home.jsx'
 
 import { Route, Switch} from 'react-router'
 
 import './Modelo.css'
 
-import Villa from '/workspace/Projeto-Rotas/src/componentes/Pacaembu/villadicapri/villa.jsx'
+import Villa from '../villa.jsx'
 
 export default function Modelo() {
     return(

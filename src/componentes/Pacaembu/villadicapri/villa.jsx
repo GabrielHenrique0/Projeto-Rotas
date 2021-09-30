@@ -3,10 +3,10 @@ import React from 'react'
 import './villa.css'
 import { Link } from 'react-router-dom'
 import { Route, Switch } from 'react-router'
-import Home from '/workspace/Projeto-Rotas/src/componentes/Home/Home.jsx'
-import Modelo from '/workspace/Projeto-Rotas/src/componentes/Pacaembu/villadicapri/projeto/Modelo.jsx'
-import Pacaembu from '/workspace/Projeto-Rotas/src/componentes/Pacaembu/Pacaembu.jsx'
-import Titulo from '/workspace/Projeto-Rotas/src/componentes/Titulo/Titulo.jsx'
+import Home from '../../Home/Home.jsx'
+import Modelo from '../villadicapri/projeto/Modelo.jsx'
+import Pacaembu from '../Pacaembu.jsx'
+import Titulo from '../../Titulo/Titulo.jsx'
 
 export default function Villa() {
     return(
